@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i5tuGz4CIJc3gHMY/XzKmg39NSJEez+ExO7ohm6zSub5LkXU4WgmeBhtilJY3f4vFbqWli97KHeOxEF3hIxWYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\OneDrive\\desktop\\epicodus\\c\\TravelReviews.Solution\\TravelReviews\\TravelReviews.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
